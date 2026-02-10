@@ -4,6 +4,7 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [Weekly Notes](comp1238.md)
+
 ## Weekly Schedule
 - Monday
   - 9:00 - [COMP1236 - Fundamentals of Computing Logic](https://learn.georgebrown.ca/d2l/home/455928)
